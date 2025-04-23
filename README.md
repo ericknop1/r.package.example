@@ -8,3 +8,4 @@
 An example package for the workshop.
 
 
+New line.
